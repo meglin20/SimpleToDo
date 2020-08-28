@@ -1,10 +1,10 @@
 # Project 1 - *Simple ToDo*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Megan (Wei Tung) Lin**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -20,13 +20,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Splash Screen
+* [x] Added a gradient for the buttons' color
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/meglin20/SimpleToDo/blob/master/Walkthrough.gif' title="Walkthrough' width='' alt='Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -36,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Megan Lin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I faced is making the app launch with the splash screen instead of the main activity. I was able to solve the problem by tweaking the manifest file.
 
 ## License
 
